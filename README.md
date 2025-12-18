@@ -11,16 +11,17 @@ Familiar with:
 - C#
 - Java
 - Javascript
+- Typescript
 - Python
 - Swift
 ```
 
 ```
 My favorite projects:
-- Making my Spotify Now Playing web app designed for a Raspberry Pi
-- Creating a Teenage Engineering OP-1 Tombola themed music utility for the OP-Z synthesizer
-- Creating custom applications to run on my car's infotainment system
-- Creating a Forza-Horizon-like location tracker website that shows me all of the roads I've driven
+- Spotify Now Playing web app designed for a Raspberry Pi
+- Teenage Engineering OP-1 Tombola themed music utility for the OP-Z synthesizer
+- Custom applications to run on my car's infotainment system
+- A Forza-Horizon-like location tracker website that shows me all of the roads I've driven
 - Porting a friend's game to the Playstation 3
 - Tuning my car with a Steam Deck
 - Running Doom on a drone controller
