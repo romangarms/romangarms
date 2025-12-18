@@ -1,4 +1,3 @@
-![image](Banner.png)
 ![image](Banner2.png)
 
 ### Hiya
