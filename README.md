@@ -1,4 +1,4 @@
-![image](Banner2.png)
+![A drone photo I took in Hawaii](Banner2.png)
 
 ### Hiya
 
