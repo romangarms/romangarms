@@ -1,8 +1,8 @@
 ![A drone photo I took in Hawaii](Banner2.png)
 
-### Hiya
+### Hi
 
-I'm Roman Garms, a Computer Science major going to University of California Santa Cruz. I'm interested in computers, cars, videography, as well as trying to get tech to do something it's never done before. Big fan of porting Doom to things it never should run on.
+I'm Roman Garms, a Computer Science major going to the University of California Santa Cruz. I'm interested in computers, cars, videography, as well as trying to get tech to do something it's never done before. Big fan of porting Doom to things it never should run on.
 
 ```
 Familiar with:
@@ -18,6 +18,7 @@ Familiar with:
 
 ```
 My favorite projects:
+- OP-Z/OP-1 Sample Manager desktop app
 - Spotify Now Playing web app designed for a Raspberry Pi
 - Teenage Engineering OP-1 Tombola themed music utility for the OP-Z synthesizer
 - Custom applications to run on my car's infotainment system
