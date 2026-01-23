@@ -1,6 +1,6 @@
 ![A drone photo I took in Hawaii](Banner2.png)
 
-### Hi
+### Hi!
 
 I'm Roman Garms, a Computer Science major going to the University of California Santa Cruz. I'm interested in computers, cars, videography, as well as trying to get tech to do something it's never done before. Big fan of porting Doom to things it never should run on.
 
